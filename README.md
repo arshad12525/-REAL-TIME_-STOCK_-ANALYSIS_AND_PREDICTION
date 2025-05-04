@@ -2,6 +2,9 @@
 
 This is a web application built using **Streamlit** for predicting stock prices using historical data. The app allows users to view real-time stock prices, perform technical analysis, and make predictions on future stock prices using an LSTM model.
 
+# URL
+https://real-timestockanalysisandprediction-zcfpl6wc8p6umrywddevrq.streamlit.app/
+
 ## Features
 ### 1. **Stock Dashboard**
    - View real-time stock market data for popular stocks.
